@@ -1,9 +1,5 @@
 <h1 align="center">Ateniy</h1>
-<h3 align="center">Research Engineer | Low-Level Optimization | Security Researcher</h3>
-
-<p align="center">
-  <em>Exploring the intersection of probabilistic logic and binary instrumentation.</em>
-</p>
+<h3 align="center">Reverse Engineer | Stochastic Computing | Network Engineer</h3>
 
 ---
 
@@ -17,8 +13,6 @@ I specialize in non-deterministic computing architectures and software security 
 
 ### 🛠 Technical Stack
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
 | **Low-Level & Embedded** | C, C++, Assembly (x86/64, ARM), Rust |
 | **Hardware Description** | Verilog, VHDL, SystemC |
 | **Reverse Engineering** | IDA Pro, Ghidra, x64dbg, Binary Ninja, Frida |
