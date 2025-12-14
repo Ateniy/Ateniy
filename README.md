@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Ateniy</h1>
+<h3 align="center">Research Engineer | Low-Level Optimization | Security Researcher</h3>
 
-<!--
-**Ateniy/Ateniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Exploring the intersection of probabilistic logic and binary instrumentation.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Focus
+
+I specialize in non-deterministic computing architectures and software security auditing. My work involves creating efficient hardware implementations using **Stochastic Computing** techniques and dissecting compiled binaries through **Reverse Engineering**.
+
+- 🔭 **Current Work:** Developing fault-tolerant circuits using probabilistic bit-streams.
+- ⚙️ **Architecture:** Focusing on FPGA implementations and ASIC design logic.
+- 🛡️ **Security:** Analyzing malware behavior and kernel-level vulnerabilities.
+
+### 🛠 Technical Stack
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Low-Level & Embedded** | C, C++, Assembly (x86/64, ARM), Rust |
+| **Hardware Description** | Verilog, VHDL, SystemC |
+| **Reverse Engineering** | IDA Pro, Ghidra, x64dbg, Binary Ninja, Frida |
+| **Simulation & Math** | MATLAB, Python (NumPy, SciPy), Vivado |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ateniy&show_icons=true&theme=graywhite&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ateniy&layout=compact&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
+</div>
