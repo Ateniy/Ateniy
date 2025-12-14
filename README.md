@@ -12,7 +12,8 @@ I specialize in non-deterministic computing architectures and software security 
 - 🛡️ **Security:** Analyzing malware behavior and kernel-level vulnerabilities.
 
 ### 🛠 Technical Stack
-
+| Domain | Technologies & Tools |
+| :--- | :--- |
 | **Low-Level & Embedded** | C, C++, Assembly (x86/64, ARM), Rust |
 | **Hardware Description** | Verilog, VHDL, SystemC |
 | **Reverse Engineering** | IDA Pro, Ghidra, x64dbg, Binary Ninja, Frida |
